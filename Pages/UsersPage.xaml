@@ -5,7 +5,7 @@
     <StackPanel Margin="20">
         <TextBlock Text="Gestion des Utilisateurs" 
                    FontSize="24" FontWeight="Bold" Margin="0,0,0,20"/>
-        <DataGrid Name="UsersDataGrid" AutoGenerateColumns="False" Height="300">
+        <DataGrid Name="UsersDataGrid" AutoGenerateColumns="False" Height="300" x:FieldModifier="public">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="*"/>
                 <DataGridTextColumn Header="Nom" Binding="{Binding Name}" Width="*"/>

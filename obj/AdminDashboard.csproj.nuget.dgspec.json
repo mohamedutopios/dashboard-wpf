@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mohamed\\source\\repos\\AdminDashboard\\AdminDashboard.csproj": {}
+    "C:\\Users\\Moham\\Documents\\formation\\dashboard-wpf\\AdminDashboard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mohamed\\source\\repos\\AdminDashboard\\AdminDashboard.csproj": {
+    "C:\\Users\\Moham\\Documents\\formation\\dashboard-wpf\\AdminDashboard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mohamed\\source\\repos\\AdminDashboard\\AdminDashboard.csproj",
+        "projectUniqueName": "C:\\Users\\Moham\\Documents\\formation\\dashboard-wpf\\AdminDashboard.csproj",
         "projectName": "AdminDashboard",
-        "projectPath": "C:\\Users\\mohamed\\source\\repos\\AdminDashboard\\AdminDashboard.csproj",
-        "packagesPath": "C:\\Users\\mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mohamed\\source\\repos\\AdminDashboard\\obj\\",
+        "projectPath": "C:\\Users\\Moham\\Documents\\formation\\dashboard-wpf\\AdminDashboard.csproj",
+        "packagesPath": "C:\\Users\\Moham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moham\\Documents\\formation\\dashboard-wpf\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Moham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://pkgs.dev.azure.com/utopios-formation/orsys-mohamed/_packaging/CoreServices/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -39,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -68,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

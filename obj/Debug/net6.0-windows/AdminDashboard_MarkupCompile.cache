@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\mohamed\source\repos\AdminDashboard\obj\Debug\net6.0-windows\
+C:\Users\Moham\Documents\formation\dashboard-wpf\obj\Debug\net6.0-windows\
 AdminDashboard
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\mohamed\source\repos\AdminDashboard\App.xaml
+C:\Users\Moham\Documents\formation\dashboard-wpf\App.xaml
 41728792539
 
 7163066991
-194-1701117732
+194726069201
 MainWindow.xaml;Pages\DashboardPage.xaml;Pages\SettingsPage.xaml;Pages\UsersPage.xaml;
 
 False
